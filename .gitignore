@@ -1,0 +1,8 @@
+# Şifre dosyaları
+
+sifreler.txt
+logs
+
+**/images.log
+**/*.log
+**/temp*
